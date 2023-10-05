@@ -10,7 +10,7 @@ I am a Front-end developer (Reactjs) <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I am studying for  a Master's degree in Marine Object Detection in Different Imaging Conditions by deep learning.
 
 <br>
 <h3 align="left">:mailbox:Connect with me:</h3>
