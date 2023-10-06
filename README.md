@@ -1,7 +1,6 @@
 <h1 align="center">
   
-![cooltext444604735353772](https://github.com/safaaabdelnaser/info/assets/55063496/55ffdef4-fff7-4a09-ab90-5587de970f32)
-
+Hi 👋, I'm Safaa Abdel Naser
 </h1>
 
 ### :woman_technologist: About Me :
