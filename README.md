@@ -6,7 +6,7 @@ Hi 👋, I'm Safaa Abdel Naser
 </h1>
 
 ### :woman_technologist: About Me :
-I am a Front-end developer (Reactjs) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
